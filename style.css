@@ -1,0 +1,14 @@
+html {
+    display: block;
+}
+h1 {
+    font-size: 3rem;
+    color: brown;
+}
+
+button {
+    width: 250px;   
+    height: 150px;
+    background-color: aquamarine;
+    border-radius: 25%;
+}
